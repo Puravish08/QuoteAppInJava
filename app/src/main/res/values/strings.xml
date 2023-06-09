@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecycleView QuoteApp</string>
+    <string name="login">Login</string>
+    <string name="never_nmiss_na_word">Never \nMiss\na word</string>
+    <string name="get_started">Get started</string>
+    <string name="quotes_in_show_data">quotes in show data</string>
+    <string name="copy">Copy</string>
+    <string name="not_found">Not Found</string>
+    <string name="share">Share</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="action">Action</string>
+    <string name="category">Category</string>
+</resources>
